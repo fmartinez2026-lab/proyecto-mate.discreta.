@@ -32,8 +32,8 @@ Sincelejo.
 
 Requerimientos
 Para ejecutar este proyecto, es necesario contar con las siguientes librerías:
-tkinter
-networkx
-matplotlib.pyplot
-heapq
+tkinter,
+networkx,
+matplotlib.pyplot,
+heapq,
 os
